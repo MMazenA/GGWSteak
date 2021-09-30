@@ -1,0 +1,117 @@
+
+#gray{
+    background: radial-gradient(circle, #FFFFFF, #FFFFFF, #7A7879);
+    background: radial-gradient(circle, #FFFFFF, #FFFFFF, #7A7879);
+    background: radial-gradient(circle, #FFFFFF, #FFFFFF, #7A7879);
+    background: radial-gradient(circle, #FFFFFF, #FFFFFF, #7A7879);
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+ border-radius: 28%;
+}
+
+
+#gra{
+    background: radial-gradient(circle, #103aa2, #0e318b, #09215d);
+    background: radial-gradient(circle, #103aa2, #0e318b, #09215d); 
+    background: radial-gradient(circle, #103aa2, #0e318b, #09215d); 
+    background: radial-gradient(circle, #103aa2, #0e318b, #09215d);
+}
+
+#graNO{
+    background:gradient(#54a6ff,#8c00ff);
+    background:gradient(#54a6ff,#8c00ff);
+    background:linear-gradient(#54a6ff,#8c00ff);
+    background:linear-gradient(#54a6ff, #8c00ff);
+}
+
+
+td,th{
+border: 2px solid black;
+ border-radius: 8px;
+}
+
+#c{
+   text-align:center;
+}
+.boxed{
+    background-color:white;
+    border: 5px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 300px;
+    margin-left: 300px;
+    text-align:center;
+}
+
+#title{
+   color:white;
+   text-align:center;
+   font-size:300%;
+}
+
+#bott{
+   text-align:left;
+   color:white;
+}
+
+
+
+#img{
+   text-align:center;
+}
+
+
+#td{
+   color:white;
+   text-align:center;
+}
+
+#TDFONT{
+font-size:145%;   
+text-align:left;
+}
+
+
+#TDTITLE{
+   font-size:180%;
+   text-align:center;
+   font-weight: bold;
+}
+
+
+body{
+    background-image: url("uu.jpg");
+}
+
+
+
+table{
+   border-radius: 40px;
+   background:white ;
+   padding: 25px;
+}
+
+
+table{
+   width:80%;
+   margin-left:10%;
+   margin-right:10%;
+}
+
+
+
+#tabletop{
+background:white;
+font-color:black;
+}
+
+@font-face{
+    font-family:First;
+    src:url('bold.ttf');
+
+body{
+font-family:First;
+}
