@@ -1,2 +1,2 @@
 # GGWSteak
-Th
+A mock restaurant website
